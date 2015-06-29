@@ -1,6 +1,6 @@
 {
   "startup": {
-    "labelGreeting": "Ola %s %s",
+    "labelGreeting": "Hola %s %s",
     "labelLanguage": "Spanish",
     "labelCountry": "Unknown"
   }
